@@ -3,6 +3,7 @@ print("Challenges 035")
 Name = input("Type your name: ")
 for i in range (0,3):
     print(Name)
+print()
 
 print("***************")
 print("Challenges 036")
@@ -10,12 +11,14 @@ name = input("Type your name: ")
 number = int(input("Enter a number: "))
 for i in range (0,number):
     print(name)
+print()
 
 print("****************")
 print("Challenges 037")
 name = input("Type your name: ")
 for i in name:
     print(i)
+print()
 
 print("****************")
 print("Challenges 038")
